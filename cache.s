@@ -8,6 +8,7 @@ array:
         .text
 main:
 
+# Adding a comment here to turn in so i don't forget. We will solve this later
 # Supply values for array size, step size, and repetition count.
 # arraysize must be a positive power of 2, less than or equal the number of bytes
 #   allocated for "array".
